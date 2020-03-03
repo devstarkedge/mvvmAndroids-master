@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3C3C3C</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#F0F0F0</color>
+
+    <color name="colorAccentDark">#ACACAC</color>
+    <color name="colorAccentTransparent">#B2CA2F64</color>
+
+    <color name="greyLight">#8F8F8F</color>
+    <color name="greyDark">#616161</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="greenTheme">#12A225</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#C0551A</color>
+    <color name="bg_screen2">#283F4F</color>
+    <color name="bg_screen3">#38616E</color>
+    <color name="bg_screen4">#8FAA9E</color>
+
+    <array name="slide_colors">
+        <item>@color/bg_screen1</item>
+        <item>@color/bg_screen2</item>
+        <item>@color/bg_screen3</item>
+        <item>@color/bg_screen4</item>
+    </array>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#9C9C9C</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#FFFFFF</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+    </array>
+</resources>

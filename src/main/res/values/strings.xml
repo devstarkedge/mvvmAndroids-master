@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FitV1</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="skip">SKIP</string>
+
+    <string name="slide_1_title">Feel-well on demand</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">You pick the place and time</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Vetted professionals</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">In the comfort of your home.</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="skip_for_now">Skip for now</string>
+
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="login_with_facebook">Login with facebook</string>
+    <string name="create_account">Create account</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up_manually">Sign up manually</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="don_t_have_an_account">Don\'t have an account</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="sign_in_manually">Sign in manually</string>
+    <string name="full_name">Full name</string>
+    <string name="phone">Phone</string>
+    <string name="enter_your_registered_email_to_reset_your_password">Enter your registered email to reset your password</string>
+    <string name="submit">Submit</string>
+    <string name="please_check_terms_and_conditions_privacy_policies">Please check terms of services and privacy policies</string>
+</resources>

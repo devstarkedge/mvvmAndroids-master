@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp"
+>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Report To Admin"
+        android:textColor="@color/greenTheme"
+        android:textSize="16sp"
+        android:textStyle="bold"
+    />
+
+    <EditText
+        android:id="@+id/edMessage"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/grey_stroke"
+        android:gravity="top"
+        android:hint="Type your message here"
+        android:minHeight="100dp"
+        android:padding="8dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/greyDark"
+        android:textSize="14sp"
+    />
+
+    <TextView
+        android:id="@+id/txtvSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/btn_selector"
+        android:paddingBottom="8dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:paddingTop="8dp"
+        android:text="Submit"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+    />
+
+</LinearLayout >
